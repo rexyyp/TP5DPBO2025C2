@@ -18,9 +18,9 @@ Saya Rexy Putra Nur Laksana dengan NIM 2309578 mengerjakan soal TP 4 dalam mata 
   - Data di tabel diperbarui secara otomatis setiap kali ada perubahan seperti Add, Update, Delete
 
 - **Class**
-  -**Menu** : aplikasi GUI berbasis Java Swing untuk mengelola data mahasiswa menggunakan fitur CRUD (Create, Read, Update, Delete). Data mahasiswa disimpan dalam database dan ditampilkan dalam JTable. Pengguna dapat menambahkan, mengedit, dan menghapus data dengan validasi yang sesuai. Program juga mendukung interaksi melalui tombol dan klik pada tabel untuk memperbarui informasi. 
-  -**Mahasiswa** :  kelas model yang merepresentasikan data mahasiswa dengan atribut NIM, nama, jenis kelamin, dan nilai. Kelas ini menyediakan constructor untuk inisialisasi data, serta getter dan setter untuk mengakses dan mengubah nilai atribut.
-  -**Database** : Kelas Database berfungsi sebagai penghubung antara aplikasi dan database MySQL. Kelas ini menangani koneksi ke database, serta menyediakan metode untuk menjalankan query SELECT, INSERT, UPDATE, dan DELETE menggunakan JDBC.
+  - **Menu** : aplikasi GUI berbasis Java Swing untuk mengelola data mahasiswa menggunakan fitur CRUD (Create, Read, Update, Delete). Data mahasiswa disimpan dalam database dan ditampilkan dalam JTable. Pengguna dapat menambahkan, mengedit, dan menghapus data dengan validasi yang sesuai. Program juga mendukung interaksi melalui tombol dan klik pada tabel untuk memperbarui informasi. 
+  - **Mahasiswa** :  kelas model yang merepresentasikan data mahasiswa dengan atribut NIM, nama, jenis kelamin, dan nilai. Kelas ini menyediakan constructor untuk inisialisasi data, serta getter dan setter untuk mengakses dan mengubah nilai atribut.
+  - **Database** : Kelas Database berfungsi sebagai penghubung antara aplikasi dan database MySQL. Kelas ini menangani koneksi ke database, serta menyediakan metode untuk menjalankan query SELECT, INSERT, UPDATE, dan DELETE menggunakan JDBC.
 
 # Alur
 ### 1. **Inisialisasi Program**
